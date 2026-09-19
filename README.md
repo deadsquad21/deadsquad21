@@ -1,7 +1,7 @@
 <!-- =========================================================
      MOHAMED RADI
      GITHUB PROFILE README
-     CYBER EXECUTIVE COMMAND CENTER — V4
+     CYBER EXECUTIVE COMMAND CENTER — V5
      ========================================================= -->
 
 <p align="center">
@@ -34,12 +34,17 @@
 <br><br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mohamedradi.is-a.dev)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-deadsquad21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadsquad21)
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mohamed%20Radi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedradi-cybersecurity)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9464--5246-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9464-5246)
 
 <br>
 
 [![Contact](https://img.shields.io/badge/CONTACT-contact%40mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:contact@mohamedradi.is-a.dev)
+
 [![Info](https://img.shields.io/badge/INFO-info%40mohamedradi.is--a.dev-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@mohamedradi.is-a.dev)
 
 </div>
@@ -50,18 +55,27 @@
 
 ## ⚡ QUICK ACCESS
 
-[![About](https://img.shields.io/badge/ABOUT-07111F?style=flat-square&logo=readme&logoColor=00E5FF)](#-about-me)
-[![Command Center](https://img.shields.io/badge/COMMAND_CENTER-07111F?style=flat-square&logo=securityscorecard&logoColor=00E5FF)](#-cyber-operations-dashboard)
-[![Proof](https://img.shields.io/badge/PROOF-07111F?style=flat-square&logo=checkmarx&logoColor=00E5FF)](#-certifications--professional-proof)
-[![Stack](https://img.shields.io/badge/STACK-07111F?style=flat-square&logo=stackshare&logoColor=00E5FF)](#-technology-stack)
-[![Security](https://img.shields.io/badge/SECURITY-07111F?style=flat-square&logo=hackthebox&logoColor=00E5FF)](#-cybersecurity-command-center)
-[![Projects](https://img.shields.io/badge/MISSIONS-07111F?style=flat-square&logo=github&logoColor=00E5FF)](#-featured-missions)
-[![Analytics](https://img.shields.io/badge/INTELLIGENCE-07111F?style=flat-square&logo=githubactions&logoColor=00E5FF)](#-github-intelligence)
-[![Contact](https://img.shields.io/badge/CONTACT-07111F?style=flat-square&logo=maildotru&logoColor=00E5FF)](#-secure-communications)
+[![About](https://img.shields.io/badge/ABOUT-07111F?style=flat-square&logo=readme&logoColor=00E5FF)](#about)
+
+[![Identity](https://img.shields.io/badge/IDENTITY-07111F?style=flat-square&logo=orcid&logoColor=A6CE39)](#identity)
+
+[![Command Center](https://img.shields.io/badge/COMMAND_CENTER-07111F?style=flat-square&logo=securityscorecard&logoColor=00E5FF)](#command-center)
+
+[![Stack](https://img.shields.io/badge/STACK-07111F?style=flat-square&logo=stackshare&logoColor=00E5FF)](#stack)
+
+[![Security](https://img.shields.io/badge/SECURITY-07111F?style=flat-square&logo=hackthebox&logoColor=00E5FF)](#security)
+
+[![Projects](https://img.shields.io/badge/MISSIONS-07111F?style=flat-square&logo=github&logoColor=00E5FF)](#missions)
+
+[![Analytics](https://img.shields.io/badge/INTELLIGENCE-07111F?style=flat-square&logo=githubactions&logoColor=00E5FF)](#intelligence)
+
+[![Contact](https://img.shields.io/badge/CONTACT-07111F?style=flat-square&logo=maildotru&logoColor=00E5FF)](#contact)
 
 </div>
 
 ---
+
+<a id="about"></a>
 
 # 🛡️ About Me
 
@@ -116,6 +130,43 @@ My work connects multiple technical disciplines into one engineering workflow:
 
 ---
 
+<a id="identity"></a>
+
+# 🪪 Verified Professional Identity
+
+<div align="center">
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9464--5246-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9464-5246)
+
+[![Portfolio](https://img.shields.io/badge/PROFESSIONAL_PORTFOLIO-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mohamedradi.is-a.dev)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-deadsquad21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadsquad21)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MOHAMED_RADI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedradi-cybersecurity)
+
+</div>
+
+<br>
+
+```text
+[ PROFESSIONAL IDENTITY ]
+
+Name ................. Mohamed Radi
+ORCID iD ............. 0009-0007-9464-5246
+Country .............. Egypt
+Field ................ Cybersecurity & Software Engineering
+Status ............... Active
+
+[ VERIFIED DIGITAL PRESENCE ]
+
+Portfolio ............ mohamedradi.is-a.dev
+GitHub ............... deadsquad21
+ORCID ................ Verified
+Professional Email ... Active
+```
+
+---
+
 # 🎛️ Executive Technology Profile
 
 <div align="center">
@@ -135,6 +186,8 @@ My work connects multiple technical disciplines into one engineering workflow:
 </div>
 
 ---
+
+<a id="command-center"></a>
 
 # ⚡ Cyber Operations Dashboard
 
@@ -160,10 +213,15 @@ My work connects multiple technical disciplines into one engineering workflow:
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/CEH-CERTIFIED-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000)
-![Typing](https://img.shields.io/badge/TYPING-198%20WPM-2196F3?style=for-the-badge&logo=keyboard&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-CERTIFIED-00E5FF?style=for-the-badge)
+
+![Typing](https://img.shields.io/badge/TYPING-198%20WPM-2196F3?style=for-the-badge)
+
 ![Accuracy](https://img.shields.io/badge/ACCURACY-99.2%25-00C853?style=for-the-badge)
+
 ![English](https://img.shields.io/badge/ENGLISH-B2%20UPPER%20INTERMEDIATE-3949AB?style=for-the-badge)
+
+[![ORCID](https://img.shields.io/badge/ORCID-VERIFIED-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9464-5246)
 
 </div>
 
@@ -173,6 +231,9 @@ My work connects multiple technical disciplines into one engineering workflow:
 [ VERIFIED PROFESSIONAL SIGNALS ]
 
 [+] CEH Certified
+[+] ORCID Professional Identity
+[+] ORCID iD: 0009-0007-9464-5246
+
 [+] 198 WPM Typing Speed
 [+] 99.2% Typing Accuracy
 [+] English — B2 / Upper Intermediate
@@ -186,6 +247,8 @@ My work connects multiple technical disciplines into one engineering workflow:
 ```
 
 ---
+
+<a id="stack"></a>
 
 # 🧰 Technology Stack
 
@@ -205,8 +268,11 @@ My work connects multiple technical disciplines into one engineering workflow:
 <div align="center">
 
 ![Responsive](https://img.shields.io/badge/RESPONSIVE_DESIGN-0F172A?style=flat-square&logo=googlechrome&logoColor=00E5FF)
+
 ![Accessibility](https://img.shields.io/badge/ACCESSIBILITY-0F172A?style=flat-square&logo=accessibleicon&logoColor=00E5FF)
+
 ![Performance](https://img.shields.io/badge/PERFORMANCE-0F172A?style=flat-square&logo=lighthouse&logoColor=00E5FF)
+
 ![SEO](https://img.shields.io/badge/TECHNICAL_SEO-0F172A?style=flat-square&logo=google&logoColor=00E5FF)
 
 </div>
@@ -290,7 +356,9 @@ Production Data Workflows
 <div align="center">
 
 ![Production](https://img.shields.io/badge/PRODUCTION_SYSTEMS-07111F?style=for-the-badge&logo=serverfault&logoColor=00E5FF)
+
 ![Deployment](https://img.shields.io/badge/DEPLOYMENT-07111F?style=for-the-badge&logo=rocket&logoColor=00E5FF)
+
 ![Monitoring](https://img.shields.io/badge/MONITORING-07111F?style=for-the-badge&logo=grafana&logoColor=00E5FF)
 
 </div>
@@ -308,13 +376,18 @@ Infrastructure Monitoring
 
 ---
 
+<a id="security"></a>
+
 # 🛡️ Cybersecurity Command Center
 
 <div align="center">
 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000)
+
 ![Penetration Testing](https://img.shields.io/badge/PENETRATION_TESTING-111827?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+
 ![Web Security](https://img.shields.io/badge/WEB_SECURITY-00AEEF?style=for-the-badge&logo=owasp&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/LINUX_SECURITY-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
@@ -434,6 +507,8 @@ CONTINUOUS IMPROVEMENT
 
 ---
 
+<a id="missions"></a>
+
 # 🚀 Featured Missions
 
 ## 🌍 KemetX Tours
@@ -503,6 +578,7 @@ KemetX Tours
 Crazy Adventures
 Warner Tours
 
+
 [ WEB ENGINEERING ]
 
 Full-Stack Systems
@@ -510,12 +586,14 @@ Secure Web Applications
 Responsive Platforms
 Production Deployment
 
+
 [ OPTIMIZATION ]
 
 Technical SEO
 Performance
 Analytics
 User Experience
+
 
 [ SECURITY ]
 
@@ -565,6 +643,8 @@ Validation
 </div>
 
 ---
+
+<a id="intelligence"></a>
 
 # 📊 GitHub Intelligence
 
@@ -666,6 +746,8 @@ I'm open to professional work involving:
 
 ---
 
+<a id="contact"></a>
+
 # 📡 Secure Communications
 
 <div align="center">
@@ -682,11 +764,17 @@ I'm open to professional work involving:
 
 [![Gmail](https://img.shields.io/badge/mradihack%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mradihack@gmail.com)
 
+### Professional Identity
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9464--5246-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9464-5246)
+
 <br>
 
 [![Website](https://img.shields.io/badge/WEBSITE-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mohamedradi.is-a.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-MOHAMED_RADI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedradi-cybersecurity)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-deadsquad21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadsquad21)
 
 </div>
 
@@ -705,6 +793,7 @@ I'm open to professional work involving:
 ║                                                            ║
 ║              SECURE DIGITAL SOLUTIONS                      ║
 ║                                                            ║
+║   IDENTITY ............... VERIFIED                        ║
 ║   SECURITY ............... ACTIVE                          ║
 ║   DEVELOPMENT ............ READY                           ║
 ║   AUTOMATION ............. ONLINE                          ║
@@ -712,6 +801,8 @@ I'm open to professional work involving:
 ║   PERFORMANCE ............ OPTIMIZED                       ║
 ║   ANALYTICS .............. MONITORING                      ║
 ║   CONTACT ................ OPEN                            ║
+║                                                            ║
+║   ORCID: 0009-0007-9464-5246                               ║
 ║                                                            ║
 ║   STATUS: SYSTEM ONLINE                                    ║
 ║                                                            ║
@@ -724,6 +815,8 @@ I'm open to professional work involving:
 
 <br>
 
+[![ORCID](https://img.shields.io/badge/VERIFIED_IDENTITY-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9464-5246)
+
 ![System Visits](https://komarev.com/ghpvc/?username=deadsquad21&label=SYSTEM+VISITS&color=00bcd4&style=for-the-badge)
 
 <br>
@@ -733,5 +826,5 @@ I'm open to professional work involving:
 </div>
 
 <!-- =========================================================
-     END OF MOHAMED RADI CYBER EXECUTIVE README
+     END OF MOHAMED RADI CYBER EXECUTIVE README V5
      ========================================================= -->
