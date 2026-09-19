@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./29781c0f-b04d-444f-8be6-dae61f3c552c.png" alt="Mohamed Radi Cybersecurity Banner" width="100%">
+</p>
+
 <!-- =========================
      MOHAMED RADI — GITHUB PROFILE
      ========================= -->
