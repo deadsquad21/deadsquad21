@@ -8,7 +8,7 @@
 
 ### Cybersecurity Specialist • Web Penetration Tester • Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist+%7C+CEH;Web+Penetration+Tester;Full-Stack+Developer;Secure+Digital+Solutions;Build+Smart.+Test+Hard.+Secure+Everything." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist+%7C+CEH;Web+Penetration+Tester;Full-Stack+Developer;Secure+Digital+Solutions;Build+Smart.+Test+Hard.+Secure+Everything." alt="Typing Animation" />
 
 <br>
 
@@ -60,49 +60,66 @@ Automate smarter workflows using modern technology.
 > status
 
 SYSTEM ONLINE
+```
 
-I'm a Cybersecurity Specialist, CEH, Web Penetration Tester and Full-Stack Developer focused on building, testing and securing modern digital systems.
+I'm a **Cybersecurity Specialist, CEH, Web Penetration Tester and Full-Stack Developer** focused on building, testing and securing modern digital systems.
 
 My work combines:
 
-🛡️ Cybersecurity
-🎯 Web Penetration Testing
-💻 Full-Stack Development
-🌐 Secure Web Applications
-⚙️ Automation
-🤖 AI-powered Workflows
-🚀 Performance & Technical SEO
-🖥️ Infrastructure & Production Systems
+- 🛡️ Cybersecurity
+- 🎯 Web Penetration Testing
+- 💻 Full-Stack Development
+- 🌐 Secure Web Applications
+- ⚙️ Automation
+- 🤖 AI-powered Workflows
+- 🚀 Performance & Technical SEO
+- 🖥️ Infrastructure & Production Systems
 
-Security shouldn't be added after development.
-It should be engineered into the system from the beginning.
+> **Security shouldn't be added after development.  
+> It should be engineered into the system from the beginning.**
 
-⚡ Professional Snapshot
-Area	Focus
-🛡️ Cybersecurity	Security Assessment & Hardening
-🎯 Penetration Testing	Web Application Security
-💻 Development	Full-Stack Web Development
-⚙️ Automation	Workflow & Process Automation
-🌐 Infrastructure	Deployment & Production Systems
-🚀 Performance	Optimization & Technical SEO
-🤖 AI	AI-assisted Digital Solutions
-⌨️ Typing	198 WPM • 99.2% Accuracy
-🧰 Technology Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,bash,linux,git,github,docker,cloudflare,vercel,supabase,postgres,mysql&perline=9" /> </div>
-🛡️ Cybersecurity Focus
+---
+
+## ⚡ Professional Snapshot
+
+| Area | Focus |
+|---|---|
+| 🛡️ Cybersecurity | Security Assessment & Hardening |
+| 🎯 Penetration Testing | Web Application Security |
+| 💻 Development | Full-Stack Web Development |
+| ⚙️ Automation | Workflow & Process Automation |
+| 🌐 Infrastructure | Deployment & Production Systems |
+| 🚀 Performance | Optimization & Technical SEO |
+| 🤖 AI | AI-assisted Digital Solutions |
+| ⌨️ Typing | **198 WPM • 99.2% Accuracy** |
+
+---
+
+## 🧰 Technology Stack
+
 <div align="center">
 
-
-
-
-
-
-
-
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,bash,linux,git,github,docker,cloudflare,vercel,supabase,postgres,mysql&perline=9" alt="Technology Stack" />
 
 </div>
-Core Areas
+
+---
+
+## 🛡️ Cybersecurity Focus
+
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-111827?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+![Web Security](https://img.shields.io/badge/Web_Security-00AEEF?style=for-the-badge&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</div>
+
+### Core Areas
+
+```text
 [+] Web Application Security
 [+] Vulnerability Assessment
 [+] Penetration Testing
@@ -113,10 +130,15 @@ Core Areas
 [+] Authentication & Authorization Testing
 [+] OWASP Testing Methodologies
 [+] Security-focused Code Review
-💻 Development
+```
+
+---
+
+## 💻 Development
 
 I build digital products with a strong focus on:
 
+```text
 Secure Architecture
 Clean Code
 Responsive Design
@@ -126,53 +148,67 @@ Technical SEO
 Accessibility
 Deployment
 Production Reliability
-Development Philosophy
+```
+
+### Development Philosophy
+
 <div align="center">
-BUILD → TEST → SECURE → OPTIMIZE → DEPLOY → IMPROVE
+
+### BUILD → TEST → SECURE → OPTIMIZE → DEPLOY → IMPROVE
+
 </div>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
-🌍 KemetX Tours
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 KemetX Tours
 
 Tourism and travel platform focused on excursions, experiences and digital booking journeys in Egypt.
 
-Focus
+**Focus**
 
-TypeScript Web Development SEO Performance UX
+`TypeScript` `Web Development` `SEO` `Performance` `UX`
 
-🌐 Visit KemetX Tours
+🌐 [Visit KemetX Tours](https://www.kemetxtours.com/)
 
-</td> <td width="50%">
-🧭 Mohamed Radi Portfolio
+---
+
+### 🧭 Mohamed Radi Portfolio
 
 My professional cybersecurity and development ecosystem.
 
-Focus
+**Focus**
 
-Cybersecurity Development SEO Performance
+`Cybersecurity` `Full-Stack Development` `SEO` `Performance`
 
-🌐 mohamedradi.is-a.dev
+🌐 [Visit Mohamed Radi Portfolio](https://mohamedradi.is-a.dev)
 
-</td> </tr> <tr> <td width="50%">
-🌴 Crazy Adventures
+---
 
-Tourism platform work focused on mobile booking experience, analytics and scalable infrastructure.
+### 🌴 Crazy Adventures
 
-Focus
+Tourism and booking platform development focused on mobile booking experience, analytics and scalable digital infrastructure.
 
-Web Development Analytics UX Infrastructure
+**Focus**
 
-</td> <td width="50%">
-✈️ Warner Tours
+`Web Development` `Analytics` `UX` `Infrastructure`
+
+---
+
+### ✈️ Warner Tours
 
 Travel and excursion web platform focused on performance, usability and customer experience.
 
-Focus
+**Focus**
 
-React Vercel Analytics Web Development
+`React` `Vercel` `Analytics` `Web Development`
 
-</td> </tr> </table>
-🧠 What I Work On
+---
+
+## 🧠 What I Work On
+
+```text
 ┌──────────────────────────────────────────────┐
 │                                              │
 │   CYBERSECURITY                              │
@@ -184,11 +220,43 @@ React Vercel Analytics Web Development
 │   PERFORMANCE OPTIMIZATION                   │
 │                                              │
 └──────────────────────────────────────────────┘
-📊 GitHub Analytics
-<div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=deadsquad21&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsquad21&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=deadsquad21&theme=tokyonight&hide_border=true" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsquad21&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </div>
-🎯 Current Mission
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=deadsquad21&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed Radi GitHub Stats" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsquad21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deadsquad21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsquad21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+```bash
 root@mohamed-radi:~$ ./mission.sh
 
 [*] Build secure digital products
@@ -199,26 +267,48 @@ root@mohamed-radi:~$ ./mission.sh
 [*] Create technology that solves real problems
 
 [STATUS] SYSTEM ONLINE
-🤝 Let's Build Something Secure
+```
+
+---
+
+## 🤝 Let's Build Something Secure
 
 I'm open to:
 
-Cybersecurity Projects
-Web Security Assessments
-Secure Web Development
-Full-Stack Development
-Technical Consulting
-Automation Projects
-Digital Transformation
+- Cybersecurity Projects
+- Web Security Assessments
+- Secure Web Development
+- Full-Stack Development
+- Technical Consulting
+- Automation Projects
+- Digital Transformation
+
+---
+
 <div align="center">
-🌐 Explore My Work
-mohamedradi.is-a.dev
-<br>
-📬 Business Contact
+
+## 🌐 Explore My Work
+
+### [mohamedradi.is-a.dev](https://mohamedradi.is-a.dev)
 
 <br>
-MR — SECURE DIGITAL SOLUTIONS
-CODE • TEST • SECURE • EVOLVE
+
+## 📬 Business Contact
+
+[![Contact](https://img.shields.io/badge/contact%40mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:contact@mohamedradi.is-a.dev)
+
+[![Info](https://img.shields.io/badge/info%40mohamedradi.is--a.dev-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@mohamedradi.is-a.dev)
+
+[![Gmail](https://img.shields.io/badge/mradihack%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mradihack@gmail.com)
+
 <br>
 
-</div> ```
+## MR — SECURE DIGITAL SOLUTIONS
+
+### CODE • TEST • SECURE • EVOLVE
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=deadsquad21&label=PROFILE+VIEWS&color=00bcd4&style=for-the-badge)
+
+</div>
