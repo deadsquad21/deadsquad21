@@ -1,5 +1,10 @@
+<!-- =========================================================
+     MOHAMED RADI — GITHUB PROFILE README
+     CYBER EXECUTIVE / COMMAND CENTER V3
+     ========================================================= -->
+
 <p align="center">
-  <img src="./github-banner.png" alt="Mohamed Radi Cybersecurity Banner" width="100%">
+  <img src="./github-banner.png" alt="Mohamed Radi — Cybersecurity, Penetration Testing and Development" width="100%">
 </p>
 
 <div align="center">
@@ -8,9 +13,19 @@
 
 ### Cybersecurity Specialist • Web Penetration Tester • Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist+%7C+CEH;Web+Penetration+Tester;Full-Stack+Developer;Secure+Digital+Solutions;Build+Smart.+Test+Hard.+Secure+Everything." alt="Typing Animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=650&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist+%7C+CEH;Web+Penetration+Tester;Full-Stack+Developer;Secure+Digital+Solutions;Security+Engineered+From+The+Beginning;Build+Smart.+Test+Hard.+Secure+Everything."
+  alt="Mohamed Radi Professional Roles"
+/>
 
 <br>
+
+![System](https://img.shields.io/badge/SYSTEM-ONLINE-00E676?style=for-the-badge&labelColor=07111F)
+![Security](https://img.shields.io/badge/SECURITY-ACTIVE-00E5FF?style=for-the-badge&labelColor=07111F)
+![Development](https://img.shields.io/badge/DEVELOPMENT-READY-2196F3?style=for-the-badge&labelColor=07111F)
+![Location](https://img.shields.io/badge/HURGHADA-EGYPT-0B5FFF?style=for-the-badge&labelColor=07111F)
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mohamedradi.is-a.dev)
 [![GitHub](https://img.shields.io/badge/GITHUB-deadsquad21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadsquad21)
@@ -27,14 +42,15 @@
 
 <div align="center">
 
-## 🛡️ Core Expertise
+### ⚡ QUICK ACCESS
 
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000)
-![Penetration Testing](https://img.shields.io/badge/PENETRATION%20TESTING-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
-![Web Development](https://img.shields.io/badge/WEB%20DEVELOPMENT-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Full Stack](https://img.shields.io/badge/FULL--STACK-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Automation](https://img.shields.io/badge/AUTOMATION-1F2937?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Technical SEO](https://img.shields.io/badge/TECHNICAL%20SEO-0F172A?style=for-the-badge&logo=google&logoColor=00E5FF)
+[![About](https://img.shields.io/badge/ABOUT-07111F?style=flat-square&logo=readme&logoColor=00E5FF)](#-about-me)
+[![Proof](https://img.shields.io/badge/PROOF-07111F?style=flat-square&logo=checkmarx&logoColor=00E5FF)](#-certifications--professional-proof)
+[![Stack](https://img.shields.io/badge/STACK-07111F?style=flat-square&logo=stackshare&logoColor=00E5FF)](#-technology-stack)
+[![Security](https://img.shields.io/badge/SECURITY-07111F?style=flat-square&logo=hackthebox&logoColor=00E5FF)](#-cybersecurity-command-center)
+[![Projects](https://img.shields.io/badge/PROJECTS-07111F?style=flat-square&logo=github&logoColor=00E5FF)](#-featured-missions)
+[![Analytics](https://img.shields.io/badge/ANALYTICS-07111F?style=flat-square&logo=githubactions&logoColor=00E5FF)](#-github-intelligence)
+[![Contact](https://img.shields.io/badge/CONTACT-07111F?style=flat-square&logo=maildotru&logoColor=00E5FF)](#-secure-communications)
 
 </div>
 
@@ -43,26 +59,33 @@
 ## 🛡️ About Me
 
 ```text
-> whoami
+┌──(root㉿mohamed-radi)-[~]
+└─$ whoami
 
 Mohamed Radi
+
 Cybersecurity Specialist
 Web Penetration Tester
 Full-Stack Developer
 
-> mission
+┌──(root㉿mohamed-radi)-[~]
+└─$ mission
 
 Build secure digital systems.
 Identify weaknesses before attackers do.
-Create fast, scalable and reliable web experiences.
+Engineer security into development from the beginning.
+Create fast, scalable and reliable digital experiences.
 Automate smarter workflows using modern technology.
 
-> status
+┌──(root㉿mohamed-radi)-[~]
+└─$ status
 
 SYSTEM ONLINE
+SECURITY ACTIVE
+DEVELOPMENT READY
 ```
 
-I'm a **Cybersecurity Specialist, CEH, Web Penetration Tester and Full-Stack Developer** focused on building, testing and securing modern digital systems.
+I'm a **Cybersecurity Specialist, CEH, Web Penetration Tester and Full-Stack Developer** focused on designing, building, testing and securing modern digital systems.
 
 My work combines:
 
@@ -71,166 +94,70 @@ My work combines:
 - 💻 Full-Stack Development
 - 🌐 Secure Web Applications
 - ⚙️ Automation
-- 🤖 AI-powered Workflows
+- 🤖 AI-assisted Workflows
 - 🚀 Performance & Technical SEO
 - 🖥️ Infrastructure & Production Systems
+- 📊 Analytics & Digital Optimization
 
 > **Security shouldn't be added after development.  
 > It should be engineered into the system from the beginning.**
 
 ---
 
-## ⚡ Professional Snapshot
-
-| Area | Focus |
-|---|---|
-| 🛡️ Cybersecurity | Security Assessment & Hardening |
-| 🎯 Penetration Testing | Web Application Security |
-| 💻 Development | Full-Stack Web Development |
-| ⚙️ Automation | Workflow & Process Automation |
-| 🌐 Infrastructure | Deployment & Production Systems |
-| 🚀 Performance | Optimization & Technical SEO |
-| 🤖 AI | AI-assisted Digital Solutions |
-| ⌨️ Typing | **198 WPM • 99.2% Accuracy** |
-
----
-
-## 🧰 Technology Stack
+## ⚡ Cyber Operations Dashboard
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,bash,linux,git,github,docker,cloudflare,vercel,supabase,postgres,mysql&perline=9" alt="Technology Stack" />
+| SYSTEM | STATUS | FOCUS |
+|:---|:---:|:---|
+| 🛡️ Security | `ACTIVE` | Assessment & Hardening |
+| 🎯 Penetration Testing | `READY` | Web Application Security |
+| 💻 Development | `ONLINE` | Full-Stack Engineering |
+| ⚙️ Automation | `READY` | Workflow Optimization |
+| 🌐 Infrastructure | `STABLE` | Deployment & Production |
+| 🚀 Performance | `OPTIMIZED` | Speed & Technical SEO |
+| 🤖 AI Workflows | `ACTIVE` | Intelligent Automation |
+| 🔍 Testing | `ENABLED` | Quality & Security Validation |
 
 </div>
 
 ---
 
-## 🛡️ Cybersecurity Focus
+## 🏅 Certifications & Professional Proof
 
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-111827?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
-![Web Security](https://img.shields.io/badge/Web_Security-00AEEF?style=for-the-badge&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-CERTIFIED-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000)
+![Typing](https://img.shields.io/badge/TYPING-198%20WPM-2196F3?style=for-the-badge&logo=keyboard&logoColor=white)
+![Accuracy](https://img.shields.io/badge/ACCURACY-99.2%25-00C853?style=for-the-badge&logo=target&logoColor=white)
+![English](https://img.shields.io/badge/ENGLISH-B2%20UPPER%20INTERMEDIATE-3949AB?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
-### Core Areas
+<br>
 
 ```text
-[+] Web Application Security
-[+] Vulnerability Assessment
-[+] Penetration Testing
-[+] Security Hardening
-[+] Secure Development
-[+] Infrastructure Security
-[+] Reconnaissance
-[+] Authentication & Authorization Testing
-[+] OWASP Testing Methodologies
-[+] Security-focused Code Review
+[ VERIFIED PROFESSIONAL SIGNALS ]
+
+[+] CEH Certified
+[+] 198 WPM Typing Speed
+[+] 99.2% Typing Accuracy
+[+] English — B2 / Upper Intermediate
+[+] Production Web Development
+[+] Security-focused Engineering
+[+] Technical SEO & Performance
+[+] Infrastructure & Deployment Experience
 ```
 
 ---
 
-## 💻 Development
+# 🧰 Technology Stack
 
-I build digital products with a strong focus on:
-
-```text
-Secure Architecture
-Clean Code
-Responsive Design
-Performance
-Scalability
-Technical SEO
-Accessibility
-Deployment
-Production Reliability
-```
-
-### Development Philosophy
+## 🌐 Frontend Engineering
 
 <div align="center">
 
-### BUILD → TEST → SECURE → OPTIMIZE → DEPLOY → IMPROVE
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🌍 KemetX Tours
-
-Tourism and travel platform focused on excursions, experiences and digital booking journeys in Egypt.
-
-**Focus**
-
-`TypeScript` `Web Development` `SEO` `Performance` `UX`
-
-🌐 [Visit KemetX Tours](https://www.kemetxtours.com/)
-
----
-
-### 🧭 Mohamed Radi Portfolio
-
-My professional cybersecurity and development ecosystem.
-
-**Focus**
-
-`Cybersecurity` `Full-Stack Development` `SEO` `Performance`
-
-🌐 [Visit Mohamed Radi Portfolio](https://mohamedradi.is-a.dev)
-
----
-
-### 🌴 Crazy Adventures
-
-Tourism and booking platform development focused on mobile booking experience, analytics and scalable digital infrastructure.
-
-**Focus**
-
-`Web Development` `Analytics` `UX` `Infrastructure`
-
----
-
-### ✈️ Warner Tours
-
-Travel and excursion web platform focused on performance, usability and customer experience.
-
-**Focus**
-
-`React` `Vercel` `Analytics` `Web Development`
-
----
-
-## 🧠 What I Work On
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   CYBERSECURITY                              │
-│   WEB PENETRATION TESTING                    │
-│   FULL-STACK DEVELOPMENT                     │
-│   AI & AUTOMATION                            │
-│   DIGITAL INFRASTRUCTURE                     │
-│   TECHNICAL SEO                              │
-│   PERFORMANCE OPTIMIZATION                   │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=deadsquad21&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed Radi GitHub Stats" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsquad21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend Technologies" />
 
 </div>
 
@@ -238,7 +165,270 @@ Travel and excursion web platform focused on performance, usability and customer
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deadsquad21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![Responsive](https://img.shields.io/badge/RESPONSIVE_DESIGN-0F172A?style=flat-square&logo=googlechrome&logoColor=00E5FF)
+![Accessibility](https://img.shields.io/badge/ACCESSIBILITY-0F172A?style=flat-square&logo=accessibleicon&logoColor=00E5FF)
+![Performance](https://img.shields.io/badge/PERFORMANCE-0F172A?style=flat-square&logo=lighthouse&logoColor=00E5FF)
+![SEO](https://img.shields.io/badge/TECHNICAL_SEO-0F172A?style=flat-square&logo=google&logoColor=00E5FF)
+
+</div>
+
+---
+
+## ⚙️ Backend & Automation
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,bash&perline=6" alt="Backend and Automation Technologies" />
+
+</div>
+
+<br>
+
+```text
+Backend Engineering
+API Workflows
+Automation
+Process Optimization
+System Scripting
+AI-assisted Workflows
+```
+
+---
+
+## 🗄️ Data & Backend Services
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=6" alt="Database Technologies" />
+
+</div>
+
+---
+
+## ☁️ Infrastructure & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,cloudflare,vercel&perline=6" alt="Infrastructure and Deployment Technologies" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Production](https://img.shields.io/badge/PRODUCTION_SYSTEMS-07111F?style=for-the-badge&logo=serverfault&logoColor=00E5FF)
+![Deployment](https://img.shields.io/badge/DEPLOYMENT-07111F?style=for-the-badge&logo=rocket&logoColor=00E5FF)
+![Monitoring](https://img.shields.io/badge/MONITORING-07111F?style=for-the-badge&logo=grafana&logoColor=00E5FF)
+
+</div>
+
+---
+
+# 🛡️ Cybersecurity Command Center
+
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000)
+![Penetration Testing](https://img.shields.io/badge/PENETRATION_TESTING-111827?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+![Web Security](https://img.shields.io/badge/WEB_SECURITY-00AEEF?style=for-the-badge&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX_SECURITY-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+
+---
+
+### 🎯 Offensive Security
+
+```text
+[+] Web Penetration Testing
+[+] Reconnaissance
+[+] Vulnerability Assessment
+[+] Authentication Testing
+[+] Authorization Testing
+[+] Security Validation
+```
+
+### 🌐 Web Application Security
+
+```text
+[+] OWASP Testing Methodologies
+[+] Web Application Security
+[+] Input Validation Testing
+[+] Authentication & Session Review
+[+] Authorization Controls
+[+] Security Misconfiguration Review
+```
+
+### 🔐 Secure Engineering
+
+```text
+[+] Secure Development
+[+] Security Hardening
+[+] Security-focused Code Review
+[+] Production Security
+[+] Infrastructure Security
+[+] Deployment Security
+```
+
+---
+
+## 💻 Development Command
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  SECURE ARCHITECTURE                                  │
+│  CLEAN CODE                                           │
+│  RESPONSIVE DESIGN                                    │
+│  PERFORMANCE                                          │
+│  SCALABILITY                                          │
+│  TECHNICAL SEO                                        │
+│  ACCESSIBILITY                                        │
+│  DEPLOYMENT                                           │
+│  PRODUCTION RELIABILITY                               │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+### BUILD → TEST → SECURE → OPTIMIZE → DEPLOY → IMPROVE
+
+![Build](https://img.shields.io/badge/01-BUILD-111827?style=for-the-badge)
+![Test](https://img.shields.io/badge/02-TEST-0D47A1?style=for-the-badge)
+![Secure](https://img.shields.io/badge/03-SECURE-00BCD4?style=for-the-badge)
+![Optimize](https://img.shields.io/badge/04-OPTIMIZE-006064?style=for-the-badge)
+![Deploy](https://img.shields.io/badge/05-DEPLOY-01579B?style=for-the-badge)
+![Improve](https://img.shields.io/badge/06-IMPROVE-004D40?style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 Featured Missions
+
+## 🌍 KemetX Tours
+
+![Status](https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square)
+![Type](https://img.shields.io/badge/TYPE-TOURISM_PLATFORM-2196F3?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-PERFORMANCE_%26_UX-00BCD4?style=flat-square)
+
+Tourism and travel platform focused on excursions, experiences and digital booking journeys in Egypt.
+
+**Mission Focus**
+
+`TypeScript` `Web Development` `SEO` `Performance` `Booking UX`
+
+🌐 **Live:** [kemetxtours.com](https://www.kemetxtours.com/)
+
+---
+
+## 🧭 Mohamed Radi Portfolio
+
+![Status](https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square)
+![Type](https://img.shields.io/badge/TYPE-PERSONAL_TECH_BRAND-2196F3?style=flat-square)
+![Security](https://img.shields.io/badge/FOCUS-CYBER_%2B_DEV-00BCD4?style=flat-square)
+
+My professional cybersecurity, secure development and digital technology ecosystem.
+
+**Mission Focus**
+
+`Cybersecurity` `Full-Stack Development` `SEO` `Performance` `Brand Engineering`
+
+🌐 **Live:** [mohamedradi.is-a.dev](https://mohamedradi.is-a.dev)
+
+---
+
+## 🌴 Crazy Adventures
+
+![Type](https://img.shields.io/badge/TYPE-TOURISM_PLATFORM-2196F3?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-BOOKING_%2B_ANALYTICS-00BCD4?style=flat-square)
+
+Tourism and booking platform development focused on mobile booking experience, analytics and scalable digital infrastructure.
+
+**Mission Focus**
+
+`Web Development` `Analytics` `UX` `Infrastructure` `Mobile Booking`
+
+---
+
+## ✈️ Warner Tours
+
+![Type](https://img.shields.io/badge/TYPE-TRAVEL_PLATFORM-2196F3?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-PERFORMANCE-00BCD4?style=flat-square)
+
+Travel and excursion web platform focused on performance, usability and customer experience.
+
+**Mission Focus**
+
+`React` `Vercel` `Analytics` `Web Development`
+
+---
+
+# 🔬 Current Focus
+
+```text
+[ CURRENT OPERATIONS ]
+
+→ Secure Web Architecture
+→ Web Application Security
+→ Penetration Testing
+→ Full-Stack Engineering
+→ Production Infrastructure
+→ AI-assisted Automation
+→ Technical SEO
+→ Performance Optimization
+→ Analytics & Conversion Improvement
+```
+
+---
+
+# 🧠 Engineering Principles
+
+<div align="center">
+
+| PRINCIPLE | APPROACH |
+|:---|:---|
+| 🔐 Security | Build it in from the beginning |
+| 🚀 Performance | Fast by architecture, not patches |
+| 📱 Responsive | Design intentionally for every screen |
+| ♿ Accessibility | Build for real people |
+| 🔍 SEO | Engineer discoverability |
+| ⚙️ Automation | Remove repetitive work |
+| 🧪 Testing | Validate before production |
+| 📈 Improvement | Measure, learn and iterate |
+
+</div>
+
+---
+
+# 📊 GitHub Intelligence
+
+<div align="center">
+
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api?username=deadsquad21&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Mohamed Radi GitHub Stats"
+/>
+
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsquad21&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Mohamed Radi Top Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=deadsquad21&theme=tokyonight&hide_border=true"
+  alt="Mohamed Radi GitHub Streak"
+/>
 
 </div>
 
@@ -248,67 +438,127 @@ Travel and excursion web platform focused on performance, usability and customer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsquad21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=deadsquad21&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="Mohamed Radi GitHub Contribution Graph"
+/>
 
 </div>
 
 ---
 
-## 🎯 Current Mission
+## 👁️ Profile Intelligence
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=deadsquad21&label=PROFILE+VIEWS&color=00bcd4&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/deadsquad21?label=FOLLOWERS&style=for-the-badge&color=2196F3&labelColor=07111F)
+
+![Stars](https://img.shields.io/github/stars/deadsquad21?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=00BCD4&labelColor=07111F)
+
+</div>
+
+---
+
+# 🎯 Current Mission
 
 ```bash
-root@mohamed-radi:~$ ./mission.sh
+┌──(root㉿mohamed-radi)-[~/mission]
+└─$ ./mission.sh
 
 [*] Build secure digital products
 [*] Improve offensive security knowledge
 [*] Develop scalable web platforms
 [*] Automate repetitive workflows
 [*] Strengthen production infrastructure
+[*] Optimize performance and discoverability
 [*] Create technology that solves real problems
 
-[STATUS] SYSTEM ONLINE
+[SECURITY] ACTIVE
+[DEVELOPMENT] READY
+[INFRASTRUCTURE] STABLE
+[MISSION] IN PROGRESS
+[SYSTEM] ONLINE
 ```
 
 ---
 
-## 🤝 Let's Build Something Secure
+# 🤝 Collaboration Matrix
 
-I'm open to:
+I'm open to professional work involving:
 
-- Cybersecurity Projects
-- Web Security Assessments
-- Secure Web Development
-- Full-Stack Development
-- Technical Consulting
-- Automation Projects
-- Digital Transformation
+- 🛡️ Cybersecurity Projects
+- 🎯 Web Security Assessments
+- 🔐 Secure Web Development
+- 💻 Full-Stack Development
+- ⚙️ Technical Consulting
+- 🤖 Automation Projects
+- 🌐 Digital Infrastructure
+- 🚀 Performance Optimization
+- 🔍 Technical SEO
+- 📊 Digital Transformation
 
 ---
 
+# 📡 Secure Communications
+
 <div align="center">
 
-## 🌐 Explore My Work
-
-### [mohamedradi.is-a.dev](https://mohamedradi.is-a.dev)
-
-<br>
-
-## 📬 Business Contact
+### Primary Business Contact
 
 [![Contact](https://img.shields.io/badge/contact%40mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:contact@mohamedradi.is-a.dev)
 
+### General Information
+
 [![Info](https://img.shields.io/badge/info%40mohamedradi.is--a.dev-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@mohamedradi.is-a.dev)
+
+### Secondary Email
 
 [![Gmail](https://img.shields.io/badge/mradihack%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mradihack@gmail.com)
 
 <br>
 
-## MR — SECURE DIGITAL SOLUTIONS
+[![Website](https://img.shields.io/badge/WEBSITE-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mohamedradi.is-a.dev)
 
-### CODE • TEST • SECURE • EVOLVE
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MOHAMED_RADI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedradi-cybersecurity)
+
+</div>
+
+---
+
+<div align="center">
+
+# MR — SECURE DIGITAL SOLUTIONS
+
+### `CODE • TEST • SECURE • EVOLVE`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        M O H A M E D   R A D I                       ║
+║                                                      ║
+║        SECURE DIGITAL SOLUTIONS                      ║
+║                                                      ║
+║        SECURITY ............... ACTIVE               ║
+║        DEVELOPMENT ............ READY                ║
+║        AUTOMATION ............. ONLINE               ║
+║        INFRASTRUCTURE ......... STABLE               ║
+║        PERFORMANCE ............ OPTIMIZED             ║
+║        CONTACT ................ OPEN                 ║
+║                                                      ║
+║        STATUS: SYSTEM ONLINE                         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### Built for the digital world. Engineered for what comes next.
+
+**[Explore My Work →](https://mohamedradi.is-a.dev)**
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=deadsquad21&label=PROFILE+VIEWS&color=00bcd4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=deadsquad21&label=SYSTEM+VISITS&color=00bcd4&style=for-the-badge)
 
 </div>
