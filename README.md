@@ -2,10 +2,6 @@
   <img src="./github-banner.png" alt="Mohamed Radi Cybersecurity Banner" width="100%">
 </p>
 
-<!-- =========================
-     MOHAMED RADI — GITHUB PROFILE
-     ========================= -->
-
 <div align="center">
 
 # ⚡ MOHAMED RADI
@@ -16,13 +12,29 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedradi.is-a.dev)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-deadsquad21-181717?style=for-the-badge&logo=github)](https://github.com/deadsquad21)
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mohamedradi.is-a.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-deadsquad21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadsquad21)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mohamed%20Radi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedradi-cybersecurity)
 
-[![Email](https://img.shields.io/badge/EMAIL-mradihack%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mradihack@gmail.com)
+<br>
+
+[![Contact](https://img.shields.io/badge/CONTACT-contact%40mohamedradi.is--a.dev-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:contact@mohamedradi.is-a.dev)
+[![Info](https://img.shields.io/badge/INFO-info%40mohamedradi.is--a.dev-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@mohamedradi.is-a.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛡️ Core Expertise
+
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000)
+![Penetration Testing](https://img.shields.io/badge/PENETRATION%20TESTING-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+![Web Development](https://img.shields.io/badge/WEB%20DEVELOPMENT-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Full Stack](https://img.shields.io/badge/FULL--STACK-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Automation](https://img.shields.io/badge/AUTOMATION-1F2937?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Technical SEO](https://img.shields.io/badge/TECHNICAL%20SEO-0F172A?style=for-the-badge&logo=google&logoColor=00E5FF)
 
 </div>
 
@@ -45,7 +57,11 @@ Identify weaknesses before attackers do.
 Create fast, scalable and reliable web experiences.
 Automate smarter workflows using modern technology.
 
-I'm a Cybersecurity Specialist, CEH, Web Penetration Tester and Full-Stack Developer focused on building and securing modern digital systems.
+> status
+
+SYSTEM ONLINE
+
+I'm a Cybersecurity Specialist, CEH, Web Penetration Tester and Full-Stack Developer focused on building, testing and securing modern digital systems.
 
 My work combines:
 
@@ -54,9 +70,9 @@ My work combines:
 💻 Full-Stack Development
 🌐 Secure Web Applications
 ⚙️ Automation
-🤖 AI-powered workflows
+🤖 AI-powered Workflows
 🚀 Performance & Technical SEO
-🖥️ Infrastructure & Systems
+🖥️ Infrastructure & Production Systems
 
 Security shouldn't be added after development.
 It should be engineered into the system from the beginning.
@@ -72,8 +88,8 @@ Area	Focus
 🤖 AI	AI-assisted Digital Solutions
 ⌨️ Typing	198 WPM • 99.2% Accuracy
 🧰 Technology Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,bash,linux,kali,git,github,docker,cloudflare,vercel,supabase,postgres,mysql&perline=10" /> </div>
-🛡️ Cybersecurity
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,bash,linux,git,github,docker,cloudflare,vercel,supabase,postgres,mysql&perline=9" /> </div>
+🛡️ Cybersecurity Focus
 <div align="center">
 
 
@@ -106,58 +122,72 @@ Clean Code
 Responsive Design
 Performance
 Scalability
-SEO
+Technical SEO
 Accessibility
 Deployment
 Production Reliability
 Development Philosophy
-
+<div align="center">
 BUILD → TEST → SECURE → OPTIMIZE → DEPLOY → IMPROVE
-
-🚀 Selected Projects
+</div>
+🚀 Featured Projects
+<table> <tr> <td width="50%">
 🌍 KemetX Tours
 
-Tourism platform focused on experiences, excursions and travel services in Egypt.
+Tourism and travel platform focused on excursions, experiences and digital booking journeys in Egypt.
 
-TypeScript Web Development SEO Performance Booking Experience
+Focus
 
+TypeScript Web Development SEO Performance UX
+
+🌐 Visit KemetX Tours
+
+</td> <td width="50%">
 🧭 Mohamed Radi Portfolio
 
 My professional cybersecurity and development ecosystem.
 
-🌐 Live:
-https://mohamedradi.is-a.dev
+Focus
 
-Cybersecurity Web Development Performance SEO
+Cybersecurity Development SEO Performance
 
+🌐 mohamedradi.is-a.dev
+
+</td> </tr> <tr> <td width="50%">
 🌴 Crazy Adventures
 
-Tourism and booking platform development with focus on mobile booking experience, analytics and scalable digital infrastructure.
+Tourism platform work focused on mobile booking experience, analytics and scalable infrastructure.
+
+Focus
 
 Web Development Analytics UX Infrastructure
 
+</td> <td width="50%">
 ✈️ Warner Tours
 
-Travel and excursion web platform focused on performance, usability and online customer experience.
+Travel and excursion web platform focused on performance, usability and customer experience.
+
+Focus
 
 React Vercel Analytics Web Development
 
+</td> </tr> </table>
 🧠 What I Work On
-┌─────────────────────────────────────────────┐
-│                                             │
-│   CYBERSECURITY                             │
-│   WEB PENETRATION TESTING                   │
-│   FULL-STACK DEVELOPMENT                    │
-│   AI & AUTOMATION                           │
-│   DIGITAL INFRASTRUCTURE                    │
-│   TECHNICAL SEO                             │
-│   PERFORMANCE OPTIMIZATION                  │
-│                                             │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│   CYBERSECURITY                              │
+│   WEB PENETRATION TESTING                    │
+│   FULL-STACK DEVELOPMENT                     │
+│   AI & AUTOMATION                            │
+│   DIGITAL INFRASTRUCTURE                     │
+│   TECHNICAL SEO                              │
+│   PERFORMANCE OPTIMIZATION                   │
+│                                              │
+└──────────────────────────────────────────────┘
 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deadsquad21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsquad21&layout=compact&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=deadsquad21&theme=tokyonight&hide_border=true" /> </div>
-🐍 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsquad21&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div>
+<div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=deadsquad21&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsquad21&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=deadsquad21&theme=tokyonight&hide_border=true" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsquad21&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </div>
 🎯 Current Mission
 root@mohamed-radi:~$ ./mission.sh
 
@@ -173,21 +203,22 @@ root@mohamed-radi:~$ ./mission.sh
 
 I'm open to:
 
-Cybersecurity projects
-Web security assessments
-Secure web development
-Full-stack development
-Technical consulting
-Automation projects
-Digital transformation
+Cybersecurity Projects
+Web Security Assessments
+Secure Web Development
+Full-Stack Development
+Technical Consulting
+Automation Projects
+Digital Transformation
 <div align="center">
 🌐 Explore My Work
 mohamedradi.is-a.dev
 <br>
+📬 Business Contact
+
+<br>
 MR — SECURE DIGITAL SOLUTIONS
-
 CODE • TEST • SECURE • EVOLVE
-
 <br>
 
 </div> ```
