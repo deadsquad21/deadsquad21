@@ -99,6 +99,7 @@
 [![Headers Analyzer](https://img.shields.io/badge/TOOL-SECURITY_HEADERS_ANALYZER-00897B?style=flat-square&logo=python&logoColor=white)](https://github.com/deadsquad21/security-headers-analyzer)
 [![Secure Login Demo](https://img.shields.io/badge/DEMO-SECURE_LOGIN-1565C0?style=flat-square&logo=python&logoColor=white)](https://github.com/deadsquad21/secure-login-demo)
 [![Automation Toolkit](https://img.shields.io/badge/TOOLKIT-AUTOMATION_%26_AI-673AB7?style=flat-square&logo=python&logoColor=white)](https://github.com/deadsquad21/automation-ai-toolkit)
+[![Performance Toolkit](https://img.shields.io/badge/TOOL-WEBSITE_PERFORMANCE-00E5FF?style=flat-square&logo=python&logoColor=000)](https://github.com/deadsquad21/website-performance-toolkit)
 
 </div>
 
@@ -638,8 +639,11 @@ The profile is designed around **verifiable public work**, not unsupported claim
 | [`mohamed-radi-portfolio-showcase`](https://github.com/deadsquad21/mohamed-radi-portfolio-showcase) | Professional showcase | `PUBLIC` | Engineering portfolio documentation |
 | [`kemetx-showcase`](https://github.com/deadsquad21/kemetx-showcase) | Project showcase | `PUBLIC` | Tourism platform, booking UX, SEO and performance |
 | [`automation-ai-toolkit`](https://github.com/deadsquad21/automation-ai-toolkit) | Automation | `PUBLIC` | Reproducible workflows and safe integration architecture |
+| [`website-performance-toolkit`](https://github.com/deadsquad21/website-performance-toolkit) | Performance engineering | `PUBLIC` | HTTP timing, resource auditing, optimization guidance, JSON reporting and CI-tested Python tooling |
 
 > The six core proof repositories referenced below are now published publicly on GitHub.
+
+> **Extended proof layer:** `website-performance-toolkit` adds a seventh public engineering artifact focused on measurable web-performance analysis without claiming unmeasured Lighthouse or Core Web Vitals data.
 
 ## Proof Standard
 
@@ -771,6 +775,64 @@ Automation
 
 ---
 
+# ⚡ WEBSITE PERFORMANCE ENGINEERING TOOLKIT
+
+<div align="center">
+
+[![Open Repository](https://img.shields.io/badge/OPEN-WEBSITE_PERFORMANCE_TOOLKIT-00E5FF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/deadsquad21/website-performance-toolkit)
+[![Python checks](https://github.com/deadsquad21/website-performance-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/deadsquad21/website-performance-toolkit/actions/workflows/ci.yml)
+
+</div>
+
+**Public working MVP for lightweight website-performance analysis.**
+
+```text
+WEB PAGE
+   │
+   ▼
+HTTP REQUEST MEASUREMENT
+   │
+   ├── Response-header timing
+   ├── Body-download timing
+   └── Total request timing
+   │
+   ▼
+RESOURCE AUDIT
+   │
+   ├── Scripts
+   ├── Stylesheets
+   ├── Images
+   ├── Preloads
+   └── Potentially blocking scripts
+   │
+   ▼
+DELIVERY SIGNALS
+   │
+   ├── HTML transfer size
+   ├── Compression headers
+   └── Cache-control headers
+   │
+   ▼
+OPTIMIZATION GUIDANCE
+   │
+   ▼
+JSON REPORT / CI WORKFLOW
+```
+
+### Engineering Boundary
+
+- Reports only measurements the tool actually collects.
+- Does **not** invent Lighthouse scores.
+- Does **not** claim to measure LCP, INP, CLS or other Core Web Vitals without browser/RUM data.
+- Supports offline saved-HTML analysis.
+- Includes automated Python tests through GitHub Actions.
+- Intended for owned or authorized targets only.
+
+**Repository:**  
+### [github.com/deadsquad21/website-performance-toolkit →](https://github.com/deadsquad21/website-performance-toolkit)
+
+---
+
 <a id="lab"></a>
 
 # 🧪 SECURITY LAB GATEWAY
@@ -846,6 +908,7 @@ REMEDIATION GUIDANCE
 → AI-assisted Automation
 → Technical SEO
 → Performance Optimization
+→ Website Performance Analysis Tooling
 → Analytics & Conversion Improvement
 → Security Skill Development
 → Production Reliability
@@ -884,6 +947,12 @@ Recommended public pin architecture after publication:
 | `04` | `security-headers-analyzer` | Working defensive security tool |
 | `05` | `secure-login-demo` | Secure application engineering demo |
 | `06` | `automation-ai-toolkit` | Automation / AI workflow engineering |
+
+### Additional Public Engineering Proof
+
+[![Website Performance Toolkit](https://img.shields.io/badge/EXTRA_PROOF-WEBSITE_PERFORMANCE_TOOLKIT-00E5FF?style=for-the-badge&logo=python&logoColor=000)](https://github.com/deadsquad21/website-performance-toolkit)
+
+`website-performance-toolkit` is part of the public proof layer and can be rotated into the six GitHub profile pins whenever performance engineering should be emphasized.
 
 ```text
 SECURITY PROOF      ENGINEERING IDENTITY
@@ -980,6 +1049,7 @@ SECURITY PROOF      ENGINEERING IDENTITY
 [*] Strengthen production infrastructure
 [*] Optimize technical SEO
 [*] Improve application performance
+[*] Build measurable website performance tooling
 [*] Expand automation capabilities
 [*] Improve analytics
 [*] Create technology that solves real problems
