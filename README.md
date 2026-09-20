@@ -1,7 +1,7 @@
 <!-- =========================================================
      MOHAMED RADI
      GITHUB PROFILE README
-     CYBER OVERDRIVE COMMAND CENTER — V6
+     CYBER AUTHORITY COMMAND CENTER — V7
      ========================================================= -->
 
 <!-- ===================== HERO BANNER ====================== -->
@@ -75,12 +75,35 @@
 [![Security](https://img.shields.io/badge/SECURITY-07111F?style=flat-square&logo=hackthebox&logoColor=00E5FF)](#security)
 [![Stack](https://img.shields.io/badge/TECH_STACK-07111F?style=flat-square&logo=stackshare&logoColor=00E5FF)](#stack)
 [![Projects](https://img.shields.io/badge/MISSIONS-07111F?style=flat-square&logo=github&logoColor=00E5FF)](#missions)
+[![Proof](https://img.shields.io/badge/PROOF_LAYER-07111F?style=flat-square&logo=github&logoColor=00E5FF)](#proof)
+[![Lab](https://img.shields.io/badge/SECURITY_LAB-07111F?style=flat-square&logo=owasp&logoColor=00E5FF)](#lab)
 [![Analytics](https://img.shields.io/badge/INTELLIGENCE-07111F?style=flat-square&logo=githubactions&logoColor=00E5FF)](#intelligence)
 [![Contact](https://img.shields.io/badge/CONTACT-07111F?style=flat-square&logo=gmail&logoColor=00E5FF)](#contact)
 
 </div>
 
 ---
+
+# 🚨 AUTHORITY FAST PATH
+
+<div align="center">
+
+### `VERIFY IDENTITY → REVIEW SECURITY WORK → INSPECT ENGINEERING → CONTACT`
+
+[![Security Lab](https://img.shields.io/badge/OPEN-CYBERSECURITY_LAB-00E5FF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/deadsquad21/cybersecurity-lab)
+[![Portfolio Showcase](https://img.shields.io/badge/OPEN-PORTFOLIO_SHOWCASE-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadsquad21/mohamed-radi-portfolio-showcase)
+[![KemetX Showcase](https://img.shields.io/badge/OPEN-KEMETX_SHOWCASE-00BCD4?style=for-the-badge&logo=github&logoColor=000)](https://github.com/deadsquad21/kemetx-showcase)
+
+<br>
+
+[![Headers Analyzer](https://img.shields.io/badge/TOOL-SECURITY_HEADERS_ANALYZER-00897B?style=flat-square&logo=python&logoColor=white)](https://github.com/deadsquad21/security-headers-analyzer)
+[![Secure Login Demo](https://img.shields.io/badge/DEMO-SECURE_LOGIN-1565C0?style=flat-square&logo=python&logoColor=white)](https://github.com/deadsquad21/secure-login-demo)
+[![Automation Toolkit](https://img.shields.io/badge/TOOLKIT-AUTOMATION_%26_AI-673AB7?style=flat-square&logo=python&logoColor=white)](https://github.com/deadsquad21/automation-ai-toolkit)
+
+</div>
+
+> **Publication rule:** public repositories show owned code, authorized labs, synthetic demos, or publication-safe project documentation. Private client source code and secrets are not exposed.
+
 
 <a id="about"></a>
 
@@ -202,6 +225,39 @@ Keep learning. Keep testing. Keep evolving.
 ║ Identity .......... ACTIVE                          ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
+---
+
+# 🕸️ DIGITAL IDENTITY GRAPH
+
+```text
+                    ┌─────────────────────────────┐
+                    │       MOHAMED RADI          │
+                    │  Cybersecurity + Engineering│
+                    └──────────────┬──────────────┘
+                                   │
+          ┌────────────────────────┼────────────────────────┐
+          │                        │                        │
+          ▼                        ▼                        ▼
+   OFFICIAL PORTFOLIO          GITHUB CORE              ORCID ID
+ mohamedradi.is-a.dev       @deadsquad21        0009-0007-9464-5246
+          │                        │                        │
+          └────────────────────────┼────────────────────────┘
+                                   ▼
+                         PROFESSIONAL NETWORK
+                               LinkedIn
+```
+
+**Canonical professional identity**
+
+- **Name:** Mohamed Radi
+- **Primary discipline:** Cybersecurity
+- **Engineering:** Secure Full-Stack Development
+- **Public technical identity:** `deadsquad21`
+- **Brand:** MR — Secure Digital Solutions
+- **Location:** Hurghada, Egypt
+
+This identity graph is intended to keep the same professional entity consistent across the portfolio, GitHub, LinkedIn, ORCID, project documentation and future technical publications.
 
 ---
 
@@ -566,6 +622,47 @@ CONTINUOUS IMPROVEMENT
 
 ---
 
+---
+
+<a id="proof"></a>
+
+# 🧾 PROFESSIONAL PROOF LAYER
+
+The profile is designed around **verifiable public work**, not unsupported claims.
+
+| PUBLIC PROOF | TYPE | STATUS | WHAT IT DEMONSTRATES |
+|:---|:---|:---:|:---|
+| [`cybersecurity-lab`](https://github.com/deadsquad21/cybersecurity-lab) | Security engineering | `PUBLIC` | Authorized labs, hardening, methodology, defensive tooling |
+| [`security-headers-analyzer`](https://github.com/deadsquad21/security-headers-analyzer) | Python security tool | `PUBLIC` | Defensive HTTP security analysis |
+| [`secure-login-demo`](https://github.com/deadsquad21/secure-login-demo) | Secure development demo | `PUBLIC` | Authentication, session and secure coding concepts |
+| [`mohamed-radi-portfolio-showcase`](https://github.com/deadsquad21/mohamed-radi-portfolio-showcase) | Professional showcase | `PUBLIC` | Engineering portfolio documentation |
+| [`kemetx-showcase`](https://github.com/deadsquad21/kemetx-showcase) | Project showcase | `PUBLIC` | Tourism platform, booking UX, SEO and performance |
+| [`automation-ai-toolkit`](https://github.com/deadsquad21/automation-ai-toolkit) | Automation | `PUBLIC` | Reproducible workflows and safe integration architecture |
+
+> The six core proof repositories referenced below are now published publicly on GitHub.
+
+## Proof Standard
+
+```text
+CLAIM
+  ↓
+PUBLIC ARTIFACT / VERIFIED IDENTITY
+  ↓
+DOCUMENTED SCOPE
+  ↓
+REPRODUCIBLE METHOD
+  ↓
+SAFE EVIDENCE
+  ↓
+NO PRIVATE CLIENT DATA
+```
+
+No invented performance figures.  
+No invented client results.  
+No private source-code publication.  
+No security testing claims without an authorized environment or evidence.
+
+
 <a id="missions"></a>
 
 # 🚀 MISSION ARCHIVE
@@ -674,6 +771,68 @@ Automation
 
 ---
 
+<a id="lab"></a>
+
+# 🧪 SECURITY LAB GATEWAY
+
+<div align="center">
+
+[![Open Lab](https://img.shields.io/badge/ENTER-MR_CYBERSECURITY_LAB-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000)](https://github.com/deadsquad21/cybersecurity-lab)
+
+</div>
+
+The public lab is structured for **authorized and defensive** security work:
+
+```text
+cybersecurity-lab/
+├── labs/
+│   └── web-security/
+├── methodologies/
+├── checklists/
+├── tools/
+│   ├── headers-analyzer/
+│   └── file-integrity/
+├── research/
+├── writeups/
+├── evidence/
+├── ETHICS.md
+└── SECURITY.md
+```
+
+### Lab Rules
+
+- Owned systems or explicit authorization only.
+- Prefer isolated / intentionally vulnerable lab environments.
+- No real client credentials, tokens, private code or sensitive data.
+- Findings must include remediation, limitations and retest status where appropriate.
+- Public write-ups must be sanitized before publication.
+
+### First Working Defensive Tool
+
+[`security-headers-analyzer`](https://github.com/deadsquad21/security-headers-analyzer)
+
+```text
+HTTP RESPONSE
+     │
+     ▼
+HEADER NORMALIZATION
+     │
+     ▼
+DEFENSIVE CONTROL REVIEW
+     │
+     ├── Content-Security-Policy
+     ├── HSTS
+     ├── X-Content-Type-Options
+     ├── Referrer-Policy
+     ├── Permissions-Policy
+     └── Clickjacking protection
+     │
+     ▼
+REMEDIATION GUIDANCE
+```
+
+---
+
 # 🔬 CURRENT OPERATIONS
 
 ```text
@@ -710,6 +869,36 @@ Automation
 | 📈 Improvement | Measure → Learn → Improve |
 
 ---
+
+---
+
+# 📌 REPOSITORY COMMAND MATRIX
+
+Recommended public pin architecture after publication:
+
+| POSITION | REPOSITORY | ROLE |
+|:---:|:---|:---|
+| `01` | `cybersecurity-lab` | Primary cybersecurity proof |
+| `02` | `mohamed-radi-portfolio-showcase` | Professional identity & engineering showcase |
+| `03` | `kemetx-showcase` | Real project documentation |
+| `04` | `security-headers-analyzer` | Working defensive security tool |
+| `05` | `secure-login-demo` | Secure application engineering demo |
+| `06` | `automation-ai-toolkit` | Automation / AI workflow engineering |
+
+```text
+SECURITY PROOF      ENGINEERING IDENTITY
+      │                     │
+      ├──────────┬──────────┤
+      │          │          │
+ REAL PROJECT  SECURITY    SECURE APP
+  SHOWCASE       TOOL        DEMO
+      │          │          │
+      └──────────┴──────────┘
+                 │
+          AUTOMATION SYSTEMS
+```
+
+`register` can remain public if required for the `is-a.dev` domain workflow, but it should not occupy a primary portfolio pin.
 
 <a id="intelligence"></a>
 
@@ -841,6 +1030,42 @@ Professional collaboration areas:
 
 ---
 
+---
+
+# 🔏 PUBLICATION & CLIENT-SAFETY POLICY
+
+<details>
+<summary><b>Open publication rules</b></summary>
+
+<br>
+
+### Public by default
+
+- Original demo code created for the public portfolio
+- Authorized lab documentation
+- Defensive tools
+- Synthetic datasets
+- Public website screenshots approved for showcase use
+- High-level architecture that reveals no sensitive implementation detail
+
+### Private by default
+
+- Client source code
+- Credentials / API keys / tokens
+- Customer or traveler data
+- Private analytics exports
+- Infrastructure secrets
+- Vulnerability details from real engagements without publication approval
+- Commercially sensitive internal documents
+
+### Project labels
+
+Every showcased system should be clearly labeled:
+
+`LIVE` • `DEMO` • `CONCEPT` • `PRIVATE / SHOWCASE ONLY`
+
+</details>
+
 <a id="contact"></a>
 
 # 📡 SECURE COMMUNICATION CHANNEL
@@ -943,6 +1168,6 @@ Professional collaboration areas:
 </p>
 
 <!-- =========================================================
-     END — MOHAMED RADI CYBER OVERDRIVE V6
+     END — MOHAMED RADI CYBER AUTHORITY V7
      SYSTEM ONLINE
      ========================================================= -->
